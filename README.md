@@ -1,1 +1,0 @@
-# SalaryDjangoApp
